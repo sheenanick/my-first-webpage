@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+  text-align: center;
+  line-height: normal;
+}
+
+h2 {
+  color: #00f;
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+  color: orange;
+  font-weight: bolder;
+  font-size: 100px;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+  color: red;
+}
+
+img {
+  margin: auto;
+  display: block;
+  width: 40%;
+}
